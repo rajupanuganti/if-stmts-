@@ -7,4 +7,4 @@ def max_num(num1,num2,num3):
     else:
         return num3
 
-print(max_num(22,25,21))
+print(max_num(96,25,21))
